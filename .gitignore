@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+EDGE_GEOCODE_PRIVATESCH_FILEDOC.pdf
+EDGE_GEOCODE_PUBLIC_FILEDOC.pdf
+*.dbf
+setupgit.R
+Data
+readhigher.R
